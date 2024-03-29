@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGE9keIqoHmpLfbz7yjpOi3EIgQ2Jqhl7hxFLZWvNsCjWeAGdpISYeUE9qMYUpVDt7Y8GSwj0m63d+ShrZJ0mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KEKei\\source\\repos\\MonthlyPaymentCalculator\\MonthlyPaymentCalculator\\MonthlyPaymentCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KEKei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\KEKei\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\KEKei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\KEKei\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

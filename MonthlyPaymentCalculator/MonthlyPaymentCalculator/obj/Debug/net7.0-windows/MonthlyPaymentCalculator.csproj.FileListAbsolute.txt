@@ -1,0 +1,16 @@
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\bin\Debug\net7.0-windows\MonthlyPaymentCalculator.exe
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\bin\Debug\net7.0-windows\MonthlyPaymentCalculator.deps.json
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\bin\Debug\net7.0-windows\MonthlyPaymentCalculator.runtimeconfig.json
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\bin\Debug\net7.0-windows\MonthlyPaymentCalculator.dll
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\bin\Debug\net7.0-windows\MonthlyPaymentCalculator.pdb
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\obj\Debug\net7.0-windows\MonthlyPaymentCalculator.frmMonthlyPaymentCalculator.resources
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\obj\Debug\net7.0-windows\MonthlyPaymentCalculator.csproj.GenerateResource.cache
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\obj\Debug\net7.0-windows\MonthlyPaymentCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\obj\Debug\net7.0-windows\MonthlyPaymentCalculator.AssemblyInfoInputs.cache
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\obj\Debug\net7.0-windows\MonthlyPaymentCalculator.AssemblyInfo.cs
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\obj\Debug\net7.0-windows\MonthlyPaymentCalculator.csproj.CoreCompileInputs.cache
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\obj\Debug\net7.0-windows\MonthlyPaymentCalculator.dll
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\obj\Debug\net7.0-windows\refint\MonthlyPaymentCalculator.dll
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\obj\Debug\net7.0-windows\MonthlyPaymentCalculator.pdb
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\obj\Debug\net7.0-windows\MonthlyPaymentCalculator.genruntimeconfig.cache
+C:\Users\KEKei\source\repos\MonthlyPaymentCalculator\MonthlyPaymentCalculator\obj\Debug\net7.0-windows\ref\MonthlyPaymentCalculator.dll
